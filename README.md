@@ -1060,7 +1060,7 @@
               <i class="fas fa-phone"></i>
             </div>
             <h4>Phone</h4>
-            <p><a href="tel:+1234567890">+233 2013-21499</a></p>
+            <p><a href="https://wa.link/9k1ezl">+233 2013-21499</a></p>
           </div>
 
           <div class="info-item">
@@ -1075,7 +1075,7 @@
             <a href="#" class="social-link" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
             <a href="#" class="social-link" title="GitHub"><i class="fab fa-github"></i></a>
             <a href="#" class="social-link" title="Twitter"><i class="fab fa-twitter"></i></a>
-            <a href="#" class="social-link" title="Instagram"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.instagram.com/nx_andr3w.18?igsh=aHZtZHcxb242dGhq&utm_source=qr" class="social-link" title="Instagram"><i class="fab fa-instagram"></i></a>
           </div>
         </div>
       </div>
@@ -1086,7 +1086,7 @@
   <footer class="footer">
     <div class="container">
       <p>&copy; 2026 Asare Andrew. All rights reserved.</p>
-      <p>Designed & Built with <span class="heart">❤</span> by Asare Andrew</p>
+      <p>Designed & Built </span> by Saint Andrew</p>
     </div>
   </footer>
 
